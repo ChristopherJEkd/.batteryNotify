@@ -1,5 +1,6 @@
-# Battery Full Notification
-A simple script to display a notification when your battery is full in Ubuntu/Linux Mint
+# Battery Notification
+Originally taken from https://github.com/hg8/battery-full-notification
+A simple script to display a notification when your battery need to charge/discharge in Ubuntu 20.04
 
 ![preview](http://i.imgur.com/rVGMBK8.png)
 
